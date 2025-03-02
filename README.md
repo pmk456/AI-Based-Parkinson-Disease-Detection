@@ -1,5 +1,4 @@
-# AI-Based-Parkinson-Disease-Detection
-# Parkinson’s Disease Detection
+#Parkinson’s Disease Detection
 
 ## Objectives:
 - Select the best Machine Learning Model for the data
@@ -34,6 +33,7 @@
 
 > **Note:** Scaling is required for **Logistic Regression** and **SVM**.  
 > Conditions need to be framed to pass scaled data for these models.
+[!Acc Score](images/accuracy_scores.png)
 
 ---
 
@@ -41,5 +41,5 @@
 - **XGBoost Classifier** has the **highest Accuracy Score** along with the **F1 Score**.
 - The **Area Under the Curve (AUC)** computed using the **ROC Curve** function confirms that **XGBoost has the highest probability of detecting the disease effectively**.
 - **ROC Curve Image:**  
-  *(Insert ROC Curve Image Here)*
+![ROC Curve](images/roc_curve.png)
 
