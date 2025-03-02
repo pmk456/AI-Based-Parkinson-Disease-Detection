@@ -33,7 +33,7 @@
 
 > **Note:** Scaling is required for **Logistic Regression** and **SVM**.  
 > Conditions need to be framed to pass scaled data for these models.
-[!Acc Score](images/accuracy_scores.png)
+![Acc Score](images/accuracy_scores.png)
 
 ---
 
@@ -41,5 +41,5 @@
 - **XGBoost Classifier** has the **highest Accuracy Score** along with the **F1 Score**.
 - The **Area Under the Curve (AUC)** computed using the **ROC Curve** function confirms that **XGBoost has the highest probability of detecting the disease effectively**.
 - **ROC Curve Image:**  
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve_xgboost.png)
 
