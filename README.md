@@ -35,7 +35,6 @@
 > Conditions need to be framed to pass scaled data for these models.
 ![Acc Score](images/accuracy_scores.png)
 
----
 
 ### Conclusion:
 - **XGBoost Classifier** has the **highest Accuracy Score** along with the **F1 Score**.
