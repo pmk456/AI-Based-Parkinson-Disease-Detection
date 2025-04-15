@@ -41,7 +41,3 @@
 - The **Area Under the Curve (AUC)** computed using the **ROC Curve** function confirms that **XGBoost has the highest probability of detecting the disease effectively**.
 - **ROC Curve Image:**  
 ![ROC Curve](images/roc_curve_xgboost.png)
-
-
-
-
